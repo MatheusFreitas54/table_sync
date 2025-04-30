@@ -1,7 +1,7 @@
 from core.database import Base, engine
-from models.cliente import Cliente
-from models.pedido import Pedido
-from models.funcionario import Funcionario
+from models.sql.cliente import Cliente
+from models.sql.pedido import Pedido
+from models.sql.funcionario import Funcionario
 
 # Criação das tabelas no banco SQLite
 def criar_tabelas():

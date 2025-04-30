@@ -1,8 +1,8 @@
 from sqlalchemy.orm import Session
 from core.database import SessionLocal
-from models.cliente import Cliente
-from models.pedido import Pedido
-from models.funcionario import Funcionario
+from models.sql.cliente import Cliente
+from models.sql.pedido import Pedido
+from models.sql.funcionario import Funcionario
 
 def carregar_clientes(df):
    with SessionLocal() as db:
