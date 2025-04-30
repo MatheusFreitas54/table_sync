@@ -13,3 +13,9 @@ def transformar_clientes(df):
 def transformar_pedidos(df):
    df['data_pedido'] = pd.to_datetime(df['data_pedido'], errors='coerce')
    return df
+
+def transformar_funcionarios(df):
+   df['nome'] = df['nome'].str.title()
+   df['cargo'] = df['cargo'].str.title()
+   df['turno'] = df['turno'].str.title()
+   return df

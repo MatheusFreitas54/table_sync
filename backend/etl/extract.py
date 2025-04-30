@@ -5,3 +5,6 @@ def ler_clientes(path='backend/data/clientes.csv'):
 
 def ler_pedidos(path='backend/data/pedidos.csv'):
     return pd.read_csv(path)
+
+def ler_funcionarios(path='backend/data/funcionarios.csv'):
+    return pd.read_csv(path)

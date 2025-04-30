@@ -2,6 +2,7 @@ from sqlalchemy.orm import Session
 from core.database import SessionLocal
 from models.cliente import Cliente
 from models.pedido import Pedido
+from models.funcionario import Funcionario
 
 def carregar_clientes(df):
    with SessionLocal() as db:
@@ -32,4 +33,16 @@ def carregar_pedidos(df):
                status_pedido=row['status_pedido']
          )
          db.merge(pedido)
+      db.commit()
+
+def carregar_funcionarios(df):
+   with SessionLocal() as db:
+      for _, row in df.iterrows():
+         funcionario = Funcionario(
+               id_csv=row['id'],
+               nome=row['nome'],
+               cargo=row['cargo'],
+               turno=row['turno']
+         )
+         db.add(funcionario)
       db.commit()
