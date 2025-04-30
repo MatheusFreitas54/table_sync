@@ -1,0 +1,51 @@
+id,client_id,produto,quantidade,preco_unitario,total_pedido,data_pedido,status_pedido
+1,1,Macarrão à bolonhesa,1,25.00,25.00,2025-04-29,Pendente
+2,2,Strogonoff,2,30.00,60.00,2025-04-29,Pendente
+3,3,Pizza Margherita,1,35.00,35.00,2025-04-29,Em Preparação
+4,4,Feijoada,3,40.00,120.00,2025-04-29,Pendente
+5,5,Frango grelhado,2,28.00,56.00,2025-04-29,Entregue
+6,6,Burger com batata frita,1,22.00,22.00,2025-04-29,Pendente
+7,7,Lasanha,1,32.00,32.00,2025-04-29,Em Preparação
+8,8,Espaguete ao alho e óleo,2,18.00,36.00,2025-04-29,Pendente
+9,9,Salada Caesar,1,20.00,20.00,2025-04-29,Entregue
+10,10,Peixe grelhado,2,45.00,90.00,2025-04-29,Pendente
+11,11,Pizza de Calabresa,1,38.00,38.00,2025-04-29,Pendente
+12,12,Churrasco,4,50.00,200.00,2025-04-29,Em Preparação
+13,13,Sushi,3,35.00,105.00,2025-04-29,Pendente
+14,14,Strogonoff de camarão,2,45.00,90.00,2025-04-29,Pendente
+15,15,Moqueca de peixe,1,50.00,50.00,2025-04-29,Entregue
+16,16,Pastel de carne,5,12.00,60.00,2025-04-29,Pendente
+17,17,Bife à parmegiana,2,36.00,72.00,2025-04-29,Em Preparação
+18,18,Caldo verde,1,22.00,22.00,2025-04-29,Pendente
+19,19,Macarrão alho e óleo,1,20.00,20.00,2025-04-29,Entregue
+20,20,Escondidinho de carne seca,2,35.00,70.00,2025-04-29,Pendente
+21,1,Feijoada,2,40.00,80.00,2025-04-29,Pendente
+22,2,Frango grelhado,1,28.00,28.00,2025-04-29,Entregue
+23,3,Pizza de Calabresa,2,38.00,76.00,2025-04-29,Pendente
+24,4,Lasanha,3,32.00,96.00,2025-04-29,Pendente
+25,5,Peixe grelhado,1,45.00,45.00,2025-04-29,Em Preparação
+26,6,Burger com batata frita,3,22.00,66.00,2025-04-29,Pendente
+27,7,Sushi,2,35.00,70.00,2025-04-29,Pendente
+28,8,Strogonoff,1,30.00,30.00,2025-04-29,Pendente
+29,9,Churrasco,4,50.00,200.00,2025-04-29,Entregue
+30,10,Macarrão à bolonhesa,1,25.00,25.00,2025-04-29,Em Preparação
+31,11,Moqueca de peixe,1,50.00,50.00,2025-04-29,Pendente
+32,12,Pizza Margherita,2,35.00,70.00,2025-04-29,Entregue
+33,13,Espaguete ao alho e óleo,3,18.00,54.00,2025-04-29,Pendente
+34,14,Pastel de carne,4,12.00,48.00,2025-04-29,Pendente
+35,15,Strogonoff de camarão,1,45.00,45.00,2025-04-29,Entregue
+36,16,Feijoada,2,40.00,80.00,2025-04-29,Pendente
+37,17,Lasanha,2,32.00,64.00,2025-04-29,Entregue
+38,18,Bife à parmegiana,1,36.00,36.00,2025-04-29,Pendente
+39,19,Macarrão alho e óleo,2,20.00,40.00,2025-04-29,Pendente
+40,20,Escondidinho de carne seca,3,35.00,105.00,2025-04-29,Pendente
+41,1,Sushi,2,35.00,70.00,2025-04-29,Em Preparação
+42,2,Peixe grelhado,1,45.00,45.00,2025-04-29,Pendente
+43,3,Caldo verde,1,22.00,22.00,2025-04-29,Entregue
+44,4,Churrasco,3,50.00,150.00,2025-04-29,Pendente
+45,5,Feijoada,1,40.00,40.00,2025-04-29,Pendente
+46,6,Burger com batata frita,2,22.00,44.00,2025-04-29,Entregue
+47,7,Lasanha,2,32.00,64.00,2025-04-29,Pendente
+48,8,Strogonoff,3,30.00,90.00,2025-04-29,Pendente
+49,9,Macarrão à bolonhesa,1,25.00,25.00,2025-04-29,Em Preparação
+50,10,Pizza de Calabresa,2,38.00,76.00,2025-04-29,Pendente
