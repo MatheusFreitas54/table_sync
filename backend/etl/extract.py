@@ -8,3 +8,6 @@ def ler_pedidos(path='backend/data/pedidos.csv'):
 
 def ler_funcionarios(path='backend/data/funcionarios.csv'):
     return pd.read_csv(path)
+
+def ler_feedbacks(path='backend/data/feedbacks.csv'):
+    return pd.read_csv(path, quotechar='"')

@@ -19,3 +19,10 @@ def transformar_funcionarios(df):
    df['cargo'] = df['cargo'].str.title()
    df['turno'] = df['turno'].str.title()
    return df
+
+def transformar_feedbacks(df):
+   df['data'] = pd.to_datetime(df['data'], errors='coerce')
+   df['feedback'] = df['feedback'].astype(str)
+   df['prato_mais_vendido'] = df['prato_mais_vendido'].astype(str)
+   df['vendas_total'] = pd.to_numeric(df['vendas_total'], errors='coerce')
+   return df

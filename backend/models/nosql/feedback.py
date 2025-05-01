@@ -1,8 +1,8 @@
 from pydantic import BaseModel
-from datetime import date
+from datetime import datetime
 
 class Feedback(BaseModel):
-   data: date
+   data: datetime
    feedback: str
    vendas_total: float
    prato_mais_vendido: str

@@ -1,4 +1,4 @@
-version: '3.8'
+version: '3'
 
 services:
   mongo:
@@ -20,7 +20,7 @@ services:
       - mongo
     environment:
       - MONGO_URI=mongodb://mongo:27017/mydatabase 
-    command: /app/venv/bin/python backend/etl/run_etl.py 
+    command: /bin/sh -c "source /app/venv/bin/activate && python backend/etl/run_etl.py"
 
 volumes:
   mongo-data:
