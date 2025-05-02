@@ -1,25 +1,25 @@
-data,feedback,vendas_total,prato_mais_vendido
-2025-04-01,"Comida excelente e atendimento rápido!",375.00,Strogonoff
-2025-04-02,"Poderia melhorar o tempo de espera.",290.50,Macarrão à bolonhesa
-2025-04-03,"Ótimo serviço!",450.00,Pizza Margherita
-2025-04-04,"Garçom muito educado!",320.00,Lasanha
-2025-04-05,"A comida veio fria.",210.00,Sopa de legumes
-2025-04-06,"Melhor restaurante do bairro!",520.00,Risoto de frango
-2025-04-07,"Pedi sem sal e veio salgado.",195.00,Feijoada
-2025-04-08,"Perfeito como sempre!",610.00,Hambúrguer artesanal
-2025-04-09,"Entrega muito rápida.",400.00,Salada Caesar
-2025-04-10,"Sabor incrível, voltarei mais vezes!",470.00,Nhoque ao sugo
-2025-04-11,"Bom custo-benefício.",385.00,Frango grelhado
-2025-04-12,"Cardápio variado e ambiente limpo.",505.00,Bife à parmegiana
-2025-04-13,"Pedido veio errado, mas resolveram rápido.",320.00,Macarrão à carbonara
-2025-04-14,"Muito barulho no salão.",310.00,Picanha
-2025-04-15,"Atendimento nota 10!",530.00,Moqueca
-2025-04-16,"Tempo de espera longo.",265.00,Escondidinho
-2025-04-17,"Prato muito bem servido.",455.00,Canelone
-2025-04-18,"Demorou, mas valeu a pena!",580.00,Lasanha
-2025-04-19,"Sobremesa maravilhosa.",495.00,Torta de limão
-2025-04-20,"Volto sempre!",550.00,Frango ao curry
-2025-04-21,"Ambiente agradável.",425.00,Salada mediterrânea
-2025-04-22,"Pedi online e chegou quente.",470.00,Penne ao molho branco
-2025-04-23,"Falta opção vegetariana.",390.00,Strogonoff
-2025-04-24,"Meu lugar favorito para jantar.",610.00,Pizza 4 queijos
+id,data,feedback,vendas_total,prato_mais_vendido
+1,2025-04-01,"Comida excelente e atendimento rápido!",375.00,Strogonoff
+2,2025-04-02,"Poderia melhorar o tempo de espera.",290.50,Macarrão à bolonhesa
+3,2025-04-03,"Ótimo serviço!",450.00,Pizza Margherita
+4,2025-04-04,"Garçom muito educado!",320.00,Lasanha
+5,2025-04-05,"A comida veio fria.",210.00,Sopa de legumes
+6,2025-04-06,"Melhor restaurante do bairro!",520.00,Risoto de frango
+7,2025-04-07,"Pedi sem sal e veio salgado.",195.00,Feijoada
+8,2025-04-08,"Perfeito como sempre!",610.00,Hambúrguer artesanal
+9,2025-04-09,"Entrega muito rápida.",400.00,Salada Caesar
+10,2025-04-10,"Sabor incrível, voltarei mais vezes!",470.00,Nhoque ao sugo
+11,2025-04-11,"Bom custo-benefício.",385.00,Frango grelhado
+12,2025-04-12,"Cardápio variado e ambiente limpo.",505.00,Bife à parmegiana
+13,2025-04-13,"Pedido veio errado, mas resolveram rápido.",320.00,Macarrão à carbonara
+14,2025-04-14,"Muito barulho no salão.",310.00,Picanha
+15,2025-04-15,"Atendimento nota 10!",530.00,Moqueca
+16,2025-04-16,"Tempo de espera longo.",265.00,Escondidinho
+17,2025-04-17,"Prato muito bem servido.",455.00,Canelone
+18,2025-04-18,"Demorou, mas valeu a pena!",580.00,Lasanha
+19,2025-04-19,"Sobremesa maravilhosa.",495.00,Torta de limão
+20,2025-04-20,"Volto sempre!",550.00,Frango ao curry
+21,2025-04-21,"Ambiente agradável.",425.00,Salada mediterrânea
+22,2025-04-22,"Pedi online e chegou quente.",470.00,Penne ao molho branco
+23,2025-04-23,"Falta opção vegetariana.",390.00,Strogonoff
+24,2025-04-24,"Meu lugar favorito para jantar.",610.00,Pizza 4 queijos

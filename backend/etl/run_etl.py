@@ -27,5 +27,7 @@ def executar_etl():
    carregar_funcionarios(funcionarios)
    carregar_feedbacks(feedbacks)
 
+   print(feedbacks.head()) 
+
 if __name__ == "__main__":
    executar_etl()
