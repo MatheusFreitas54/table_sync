@@ -37,6 +37,14 @@ def carregar_pedidos(df):
                 db.add(pedido)
         db.commit()
 
+        # // versão melhorada com service, verificar alguns pontos antes de tentar implementar 
+# def carregar_clientes(df_clientes): 
+#     db = SessionLocal()
+#     try:
+#         salvar_clientes(db, df_clientes)
+#     finally:
+#         db.close()
+
 def carregar_funcionarios(df):
     with SessionLocal() as db:
         for _, row in df.iterrows():
